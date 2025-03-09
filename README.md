@@ -18,7 +18,7 @@ This is a duo portfolio website built with **React.js** and **Bootstrap**. It sh
 ## **📂 Project Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/titikshaha/Work-Portfolio
 cd your-repo
 ```
 
@@ -65,10 +65,6 @@ _(Add images of your project here.)_
 ---
 
 ## **📬 Contact**
-👤 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)  
+👤 **Titiksha Yadav & Tushar Batham**  
+📧 titiksha.official1@gmail.com, batham.tushar2001@gmail.coom 
 
----
-
-Let me know if you want to add or modify anything! 😊🚀
