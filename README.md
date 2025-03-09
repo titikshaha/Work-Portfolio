@@ -4,7 +4,7 @@ This is a duo portfolio website built with **React.js** and **Bootstrap**. It sh
 
 ![image](https://github.com/user-attachments/assets/3e8f3dbe-96a2-4e0d-92b5-f27d4b16cac0)
 
-
+https://bytenbrush-portfolio.netlify.app/
 ---
 
 ## **📌 Features**
@@ -50,7 +50,7 @@ This starts the development server at `http://localhost:3000/`.
    npm run build
    ```
 5. Deploy! 🚀 Your website will be live at a Netlify-provided URL.
-
+https://bytenbrush-portfolio.netlify.app/
 ---
 
 ## **🛠 Tech Stack**
