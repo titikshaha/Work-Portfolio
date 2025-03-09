@@ -2,7 +2,8 @@
 
 This is a duo portfolio website built with **React.js** and **Bootstrap**. It showcases our skills, projects, and background in a visually appealing and interactive way.  
 
-![Portfolio Screenshot](./screenshot.png) _(Replace this with an actual screenshot of your site)_
+![image](https://github.com/user-attachments/assets/3e8f3dbe-96a2-4e0d-92b5-f27d4b16cac0)
+
 
 ---
 
@@ -56,11 +57,6 @@ This starts the development server at `http://localhost:3000/`.
 - **Frontend:** React.js, Bootstrap, CSS  
 - **Hosting:** Netlify  
 - **Version Control:** Git & GitHub  
-
----
-
-## **📸 Screenshots**
-_(Add images of your project here.)_
 
 ---
 
