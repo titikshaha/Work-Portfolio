@@ -2,10 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-
-
-
+  AiOutlineTwitter
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import instaIMG from "../Assets/insta.png"
@@ -50,7 +47,8 @@ function Footer() {
               </a>
             </li>
           
-            <a href="https://in.pinterest.com/titikshaha/" target="_blank" aria-label="Pintrest" rel="noopener noreferrer" className="footer-social img">
+            <a href="https://in.pinterest.com/titikshaha/" target="_blank" 
+            aria-label="Pintrest" rel="noopener noreferrer" className="footer-social img">
         <img src={instaIMG} alt="Pintrest" />
       </a>
             

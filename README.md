@@ -1,62 +1,74 @@
-<h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+### **🚀 Portfolio Website**  
 
-<br/>
+This is a duo portfolio website built with **React.js** and **Bootstrap**. It showcases our skills, projects, and background in a visually appealing and interactive way.  
 
-<center>
+![Portfolio Screenshot](./screenshot.png) _(Replace this with an actual screenshot of your site)_
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+---
 
-</center>
+## **📌 Features**
+- 🖥️ **Responsive Design** – Optimized for all devices.  
+- 🎨 **Modern UI/UX** – Clean and visually appealing.  
+- 🔥 **Interactive Animations** – Particle effects and smooth transitions.  
+- 🛠️ **Tech Stack & Tools Display** – Showcases my skills dynamically.  
+- 🌍 **Deployed on Netlify** – Easy hosting and fast load times.  
 
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## **📂 Project Setup**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 
-## Built With
+### **2️⃣ Install Dependencies**
+```sh
+npm install
+```
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+### **3️⃣ Run the Project Locally**
+```sh
+npm start
+```
+This starts the development server at `http://localhost:3000/`.
 
-This project was built using these technologies.
+---
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## **🚀 Deploying on Netlify**
+1. **Push the project to GitHub** (if not already done).
+   ```sh
+   git add .
+   git commit -m "Initial commit"
+   git push origin main
+   ```
+2. **Go to [Netlify](https://www.netlify.com/)** and log in.  
+3. Click **"New Site from Git"** and connect your GitHub repository.  
+4. Select the branch (**main**) and set the **build command**:  
+   ```
+   npm run build
+   ```
+5. Deploy! 🚀 Your website will be live at a Netlify-provided URL.
 
-## Features
+---
 
-**📖 Multi-Page Layout**
+## **🛠 Tech Stack**
+- **Frontend:** React.js, Bootstrap, CSS  
+- **Hosting:** Netlify  
+- **Version Control:** Git & GitHub  
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## **📸 Screenshots**
+_(Add images of your project here.)_
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## **📬 Contact**
+👤 **Your Name**  
+📧 your.email@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)  
 
-## 🛠 Installation and Setup Instructions
+---
 
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Let me know if you want to add or modify anything! 😊🚀
